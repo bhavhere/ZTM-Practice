@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bhavhere/start/issues"
   },
-  "homepage": "https://github.com/bhavhere/start#readme"
+  "homepage": "https://github.com/bhavhere/start#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
 }
